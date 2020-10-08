@@ -1,4 +1,4 @@
 # Machine learning series
 
-This repository contains practical codes and blogs about machine learning.
+This repo contains code for Machine learning series shared on our blog dataspoof.info.
 
